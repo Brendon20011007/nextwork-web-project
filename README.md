@@ -39,7 +39,7 @@ To get this project up and running on your local machine, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/nextwork-web-project.git
+    git clone https://github.com/Brendon20011007/nextwork-web-project.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -54,7 +54,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-Your Name - [Your Email](mailto:your.email@email.com)
+Brendon - [brendon.ang@aterpise.com](mailto:brendon.ang@aterpise.com)
 
 <br>
 
