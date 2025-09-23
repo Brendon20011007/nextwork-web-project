@@ -22,4 +22,5 @@ artifacts:
     - target/nextwork-web-project.war
     - appspec.yml
     - scripts/**/*
+  name: nextwork-web-project-$(date +%Y-%m-%d-%H-%M-%S)
   discard-paths: no
